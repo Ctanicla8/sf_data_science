@@ -1,7 +1,7 @@
 # Project 0: Game: guess the number
 
 ## Table of contents
-[1. Project description](___)
+[1. Project description](https://github.com/Ctanicla8/sf_data_science/blob/main/project_0/README.md)
 [2. What case are we solving?](___)
 [3. Brief information about the data](___)
 [4. Stages of work on the project](___)
