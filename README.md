@@ -5,7 +5,7 @@ SF homework
 
 ## Projects
 
-* [Project 0. Game: guess the number](https://github.com/Ctanicla8/sf_data_science/blob/main/)
+* [Project 0. Game: guess the number](https://github.com/Ctanicla8/sf_data_science/tree/main/project_0)
 
 * [Project 1: ______](________)
 * [Project 2: ______](________)
