@@ -2,10 +2,8 @@
 
 ## Table of contents
 [1. Project description](https://github.com/Ctanicla8/sf_data_science/blob/main/project_0/README.md)
-[2. What case are we solving?](___)
-[3. Brief information about the data](___)
-[4. Stages of work on the project](___)
-[5. Result](___)
+[2. What case are we solving?](https://github.com/Ctanicla8/sf_data_science/blob/main/project_0/README.md)
+[3. Result](___)
 
 ### Prodject description
 Guess the number guessed by the computer in the minimum number of attempts.
@@ -20,14 +18,6 @@ You need to write a program that guesses the number in the minimum number of att
 
 **What are we practicing?**
 Learn to write good code in Python.
-
-### Brief information about the data
-
-...
-
-### Stages of work on the project
-
-
 
 ### Result
 
